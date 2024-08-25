@@ -1,5 +1,7 @@
 ### Hello there! 👋
 
+I'm LummiGhost. (Double 'm' because "LumiGhost" is already used.)
+
 I'm a software developer who enjoys coding in my spare time. I recently graduated and am constantly learning new skills to improve my craft. The projects you find here are purely side projects, so updates might not be as frequent, as I work on them when inspiration strikes.
 
 I recently changed my GitHub username from EadderYin to LummiGhost, as a way to motivate myself to leave behind my old habits and embrace a more disciplined approach to my work.
