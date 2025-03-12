@@ -1,4 +1,4 @@
-### Hello there! 👋
+### Hello! 👋
 
 I'm LummiGhost. (Double 'm' because "LumiGhost" is already used.)
 
